@@ -1,0 +1,39 @@
+
+component EXM.TEST
+# Component Isolation Definition
+metamodelVersion 1.6
+# -------------------------------------------------
+public method method()
+{
+    jBC: AC.DISP2.LOAD
+    
+}
+
+public method method1()
+{
+    jBC: AC.DISP2.SELECT
+}
+
+public method method2()
+{
+    jBC: ACCT.DISP37
+    
+}
+public method method3()
+{
+    jBC: TEST37.OFS
+}
+
+public method method93()
+{
+    jBC: OFS.LREF3
+}
+
+public method method11()
+{
+    jBC: SUSAMA.INSURANCE.FIELDS
+}
+public method method111()
+{
+    jBC: SUSAMA.INSURANCE
+}

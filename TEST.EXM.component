@@ -1,0 +1,35 @@
+component TEST.EXM
+# Component Isolation Definition
+metamodelVersion 1.6
+# -------------------------------------------------
+public method method11()
+{
+    jBC: TEST37.OFS
+    
+}
+public method method103()
+{
+    jBC: ANITHA.ACCOUNT
+    
+}
+public method method104()
+{
+    jBC: ANITHA.ACCOUNT.FIELDS
+    
+}
+public method method101()
+{
+    jBC: SAMA.INSURANCE
+    
+}
+public method method102()
+{
+    jBC: SAMA.INSURANCE.FIELDS
+    
+}
+
+public method method109()
+{
+    jBC: SAMA.INSURANCE.AUTHORISE
+    
+}
